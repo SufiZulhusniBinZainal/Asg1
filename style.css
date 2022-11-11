@@ -1,0 +1,19 @@
+.background {
+    background-image: linear-gradient(to bottom right, rgb(37, 37, 37), rgb(24, 24, 24));
+}
+
+.BandName {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.log {
+    color: white;
+    text-align: right;
+}
+
+
+p {
+    color: white;
+}

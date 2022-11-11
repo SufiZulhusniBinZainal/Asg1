@@ -1,2 +1,2 @@
 # Asg1
-Band Group : Cigaretts After Sex
+Band Group : Cigarettes After Sex
