@@ -1,12 +1,8 @@
 .background {
-    background-image: linear-gradient(to bottom right, rgb(37, 37, 37), rgb(24, 24, 24));
+    background-image: linear-gradient(to bottom right, rgb(37, 37, 37), rgb(0, 0, 0));
 }
 
-.BandName {
-    color: white;
-    text-align: center;
-    font-size: 35px;
-}
+
 
 .log {
     color: white;
@@ -14,6 +10,40 @@
 }
 
 
+
+.BandName {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.nav{
+  border:1px solid rgb(163, 163, 163);
+  border-width:1px 0;
+  list-style:none;
+  margin:0;
+  padding:5;
+  text-align:center;
+  font-size: 20px;
+}
+.nav li{
+  display:inline;
+}
+.nav a{
+  display:inline-block;
+  padding:25px;
+}
+
+
 p {
     color: white;
 }
+
+h2.title {
+    color: white;
+    text-align: center;
+}
+
+
+
+
