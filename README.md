@@ -5,7 +5,7 @@ One or two paragraphs providing an overview of your project. Tell us about your 
 
 # Design Process
 
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The Design of the webpages is very simple but yet fits the aesthetics of the band. Using the tone of black and white with font of Italic makes it looks indie rock.
 
 ---
 
